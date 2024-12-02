@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.conversor{
+    background-color: gray;
+    color: white;
+    width: 70%;
+    margin: 0em 15em;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+button{
+    background-color: cornflowerblue;
+    border-radius: 8%;
+    padding: 1%;
+}
+
+.grafica{
+    background-color: white ;
+}
